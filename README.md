@@ -1,7 +1,7 @@
 # connor
 
-[LinkedIn]([https://otic.herokuapp.com/](https://www.linkedin.com/in/connorbyram/)) 
-[Portfolio]([https://otic.herokuapp.com/](https://cnnrbyrm.webflow.io/))
+[LinkedIn](https://www.linkedin.com/in/connorbyram/)) 
+[Portfolio](https://cnnrbyrm.webflow.io/))
 
 As a web developer with a background in psychology, I bring a unique perspective to every project. I am a creative problem-solver who values collaboration and utilizing my diverse skill set to create web solutions that drive results. By combining my technical expertise with my understanding of human behavior, I deliver intuitive and engaging user experiences.
 
