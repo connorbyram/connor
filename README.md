@@ -19,7 +19,9 @@ I am also a lifelong learner and maker, constantly seeking new experiences to en
   ![CSS3](https://img.shields.io/badge/-CSS-DEEB3B?style=flat&logo=css3&logoColor=black)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-DEEB3B?style=flat&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/-React-DEEB3B?style=flat&logo=react&logoColor=black)
+  ![Python](https://img.shields.io/badge/-Python-DEEB3B?style=flat&logo=python&logoColor=black)
 
+  ![Django](https://img.shields.io/badge/-Django-DEEB3B?style=flat&logo=django&logoColor=black)
   ![Express](https://img.shields.io/badge/-Express-DEEB3B?style=flat&logo=express&logoColor=black)
   ![Node](https://img.shields.io/badge/-Node.js-DEEB3B?style=flat&logo=node.js&logoColor=black)
 
