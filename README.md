@@ -20,6 +20,7 @@ I am also a lifelong learner and maker, constantly seeking new experiences to en
   ![JavaScript](https://img.shields.io/badge/-JavaScript-DEEB3B?style=flat&logo=javascript&logoColor=black)
   ![Vue](https://img.shields.io/badge/-Vue-DEEB3B?style=flat&logo=vue&logoColor=black)
   ![React](https://img.shields.io/badge/-React-DEEB3B?style=flat&logo=react&logoColor=black)
+  ![Nuxt](https://img.shields.io/badge/-Nuxt-DEEB3B?style=flat&logo=nuxt&logoColor=black)
   ![Python](https://img.shields.io/badge/-Python-DEEB3B?style=flat&logo=python&logoColor=black)
 
   ![Django](https://img.shields.io/badge/-Django-DEEB3B?style=flat&logo=django&logoColor=black)
