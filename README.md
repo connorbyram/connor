@@ -18,6 +18,7 @@ I am also a lifelong learner and maker, constantly seeking new experiences to en
   ![HTML5](https://img.shields.io/badge/-HTML5-DEEB3B?style=flat&logo=html5&logoColor=black)
   ![CSS3](https://img.shields.io/badge/-CSS-DEEB3B?style=flat&logo=css3&logoColor=black)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-DEEB3B?style=flat&logo=javascript&logoColor=black)
+  ![Vue](https://img.shields.io/badge/-Vue-DEEB3B?style=flat&logo=vue&logoColor=black)
   ![React](https://img.shields.io/badge/-React-DEEB3B?style=flat&logo=react&logoColor=black)
   ![Python](https://img.shields.io/badge/-Python-DEEB3B?style=flat&logo=python&logoColor=black)
 
